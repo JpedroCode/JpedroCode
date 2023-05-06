@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou o João Pedro</h1>
 <h3 align="center">Um apaixonado por tecnologia</h3>
 
-- 🌱 I’m currently learning **Python, Js, HTML**
+- 🌱 Estou estudando as seguintes linguas **Python, Js, HTML**
 
-- 💬 Ask me about **:)**
+- 💬 Sobre mim **:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
